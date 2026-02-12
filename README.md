@@ -20,3 +20,9 @@
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/git-3670A0?style=for-the-badge&logo=git&logoColor=red)
 ![GitHub](https://img.shields.io/badge/github-%23323330?style=for-the-badge&logo=github&logoColor=white)
+
+## 🔗 Links
+<p align="left">
+<a href="https://www.instagram.com/madhavkishore_005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mani_abbu_mano" height="30" width="40" /> 
+<a href="https://www.linkedin.com/in/madhav-kishore-k-s-674800346/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mani-kandan" height="30" width="40" />  
+</p>
