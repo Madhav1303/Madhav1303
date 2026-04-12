@@ -3,8 +3,8 @@
 
 
 ## 🚀 About Me
-- ⚒  I'm working on **Frontend development**
-- 🧠 I'm currently learning **Web Development**
+- ⚒  I'm working on **Full Stack Projects**
+- 🧠 I'm currently learning **React**
 - 📫 How to reach me **madhavkishore.ks@gmail.com**
 
 
